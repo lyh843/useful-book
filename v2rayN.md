@@ -18,7 +18,7 @@
 ## 3. V2rayN的配置
 
 打开 V2rayN 后，点击`订阅分组`。（似乎订阅分组下面也有个`加号`，也可以直接点击它）会弹出如下页面↓
-![alt text](d99770fa4439008dedbfb74405bc3677.jpg)
+<img src="C:\Users\26418\AppData\Roaming\Typora\typora-user-images\image-20250928155443492.png" alt="image-20250928155443492" style="zoom:33%;" />
 在`可选地址URL`处 粘贴第二步中复制先来的订阅地址。
 别名可随便设置，然后点击确定。
 此时V2rayN页面将会出现很多节点。
